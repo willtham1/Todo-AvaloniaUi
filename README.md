@@ -30,7 +30,8 @@ To deploy this project run
 
 
 ## Authors
-	- [@willtham1](https://www.github.com/willtham1)
+
+- [@willtham1](https://www.github.com/willtham1)
 
 ## License
 [GUN General Public License](https://github.com/willtham1/Todo-AvaloniaUi/blob/master/LICENSE.txt)
